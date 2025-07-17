@@ -47,7 +47,7 @@ These models are trained on the preprocessed and vectorized text data to classif
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/DSSKalyan2004/Detection-of-Employee-stress-using-ML.git
+git clone https://github.com/gnaneshwardammu/Detection-of-Employee-stress-using-ML.git
 cd Detection-of-Employee-stress-using-ML
 ```
 
@@ -104,8 +104,8 @@ python model_comparison.py
 
 ## 🙋‍♂️ Author
 
-- **Daram Shiva Sai Kalyan**
-- GitHub: [DSSKalyan2004](https://github.com/DSSKalyan2004)
+- **Gnaneshwar Dammu**
+- GitHub: [gnaneshwardammu](https://github.com/gnaneshwardammu)
 
 ---
 
